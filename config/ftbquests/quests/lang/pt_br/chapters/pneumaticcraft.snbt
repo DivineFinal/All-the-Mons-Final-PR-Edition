@@ -150,7 +150,7 @@
 	quest.3F9CCCFEF4E84166.title: "Melhor Produção de Calor"
 	quest.40924F0D64253A38.quest_desc: ["Faz com que as coisas possam dispensar itens."]
 	quest.40924F0D64253A38.quest_subtitle: "Sumiu!"
-	quest.40F634AC38F42B88.quest_desc: ["Para mover pressão, você precisará obter &3Tubos de Pressão&r. Que pressão, você pode estar se perguntando? Continue a linha de missões para ver para que são usados."]
+	quest.40F634AC38F42B88.quest_desc: ["Para mover pressão, você precisará obter &3Tubos de Pressão&r. Que pressão, você pode estar se perguntando? Continue as missões para ver para que são usados."]
 	quest.40F634AC38F42B88.quest_subtitle: "Que Pressão?"
 	quest.40F634AC38F42B88.title: "Movendo Pressão"
 	quest.423B8DA485C1308C.quest_desc: ["A &3Gasolina&r pode ser usada para fazer GLP."]
@@ -278,7 +278,7 @@
 	quest.68F92455A9483AD6.quest_subtitle: "Você achou que usar um Élitros era difícil?"
 	quest.68F92455A9483AD6.title: "Jet Boots"
 	quest.6B1C06C753C10E44.quest_desc: ["O &3Configurador de Logística&r pode ser usado para configurar Estruturas Logísticas e Gadgets de Transferência."]
-	quest.6CA01DCE1F4A0EC3.quest_desc: ["O próximo estágio do mod requer a coleta de &3Óleo Cru&r. Este Óleo pode ser encontrado naturalmente na superfície do Mundo Superior."]
+	quest.6CA01DCE1F4A0EC3.quest_desc: ["O próximo estágio do mod requer a coleta de &3Óleo Cru&r. Este Óleo pode ser encontrado naturalmente na Superfície."]
 	quest.6CA01DCE1F4A0EC3.quest_subtitle: "O Caminho para o Plástico"
 	quest.6CA01DCE1F4A0EC3.title: "Óleo Cru"
 	quest.6D124ACF4AE80490.quest_desc: ["Com Micromísseis você pode disparar explosões de longe! Agora ninguém pode escapar!\\n\\nEstes são necessários para criar a &6Estrela ATM&r."]

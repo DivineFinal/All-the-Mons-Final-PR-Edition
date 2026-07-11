@@ -12,7 +12,7 @@
   },
   "bag": [
     {
-      "item": "cobblemon:hyper_potion",
+      "item": "cobblemon:full_restore",
       "quantity": 2
     }
   ],
@@ -82,7 +82,7 @@
       "gender": "GENDERLESS",
       "level": 90,
       "nature": "careful",
-      "ability": "drought",
+      "ability": "desolateland",
       "moveset": [
         "firepunch",
         "precipiceblades",

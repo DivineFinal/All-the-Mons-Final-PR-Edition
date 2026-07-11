@@ -12,7 +12,7 @@
   },
   "bag": [
     {
-      "item": "cobblemon:hyper_potion",
+      "item": "cobblemon:full_restore",
       "quantity": 2
     }
   ],
@@ -186,7 +186,7 @@
         "def": 0,
         "atk": 252
       },
-      "heldItem": "mega_showdown:rusted_shield",
+      "heldItem": "leftovers",
       "ivs": {
         "hp": 31,
         "atk": 31,

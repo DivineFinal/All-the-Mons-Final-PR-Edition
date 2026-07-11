@@ -162,6 +162,9 @@ KubeJSTweaks.beforeRecipes(event => {
 
   event.disable("supplementaries:botany_flax")
 
+  // Fluorite ore should only enrich to 6 gems; drop the AllTheOres ore->dust enriching duplicate
+  event.disable("alltheores:processing/fluorite/dust/from_ore")
+
   event.getEntry(["mekmm:compat/immersiveengineering/lathe/aluminum_stick", "mekmm:compat/immersiveengineering/lathe/steel_stick"])
     .forEach(entry => {
       entry.renameKey("main_input", "input", false)
@@ -248,5 +251,9 @@ KubeJSTweaks.beforeRecipes(event => {
       entry.json().add("neoforge:conditions", [{ "type": "neoforge:mod_loaded", "modid": "createlowheated"}])
     })
 
+  if (!Platform.isLoaded("aeronautics")){
+    event.disable(["create_dragons_plus:crafting/fragile_fluid_tank","create_dragons_plus:crafting/levitite_fragile_fluid_tank"])
+  }
+  
   console.log(`Fixing recipes took ${timer.stop().elapsed("milliseconds")} ms...`)
 })
